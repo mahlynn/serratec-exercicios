@@ -1,0 +1,16 @@
+\*
+* aaaa
+\*
+
+package br.com.residencia.poo.exercicios;
+
+public class exercicio2 {
+
+	public static void main(String[] args) {
+		
+		String nome;
+		
+		System.out.println("Diga seu nome: ");
+		
+	}
+}

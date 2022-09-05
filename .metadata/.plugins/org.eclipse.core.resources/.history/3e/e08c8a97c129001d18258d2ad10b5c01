@@ -1,0 +1,17 @@
+package br.com.residencia.poo.exercicios;
+
+public class ListaExercicioCinco {
+	
+	public static void main(String[] args) {
+		
+		int resultadoA, resultadoB;
+		
+		resultadoA = 2 + 3 - ( 5 * 8 ) - 4 + 354 - 521 + ( 7 * 66 );
+		
+		System.out.println("Expressão A: 2 + 3 - 5 * 8 - 4 + 354 - 521 + 7 * 66");
+		System.out.println("> Resultado: "+ resultadoA);
+		
+		
+	}
+
+}

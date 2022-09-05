@@ -1,0 +1,9 @@
+package teste;
+
+public class minhanovaclass {
+
+	public static void main(String[] args) {
+		System.out.printIn("Olá Mundo");
+	}
+	
+}
